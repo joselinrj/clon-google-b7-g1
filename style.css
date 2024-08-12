@@ -1,13 +1,13 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 .icono-buscador {
     display: inline-block;
     width: 20px;
     margin: 0px;
-}
-
-.roboto-regular {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
 }
 
 body {
@@ -78,7 +78,7 @@ article{
 }
 
 #logo img {
-    width: 272px;
+    width: 400px;
 }
 
 #buscador{
